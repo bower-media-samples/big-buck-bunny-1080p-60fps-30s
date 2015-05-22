@@ -1,0 +1,23 @@
+{
+  "name": "big-buck-bunny-1080p-30s",
+  "homepage": "https://github.com/bower-media-samples/big-buck-bunny-1080p-30s",
+  "authors": [
+    "Bower Media Samples"
+  ],
+  "description": "30 first seconds of Big Buck Bunny (1080p)",
+  "main": [
+    "video.mp4",
+    "poster.jpg"
+  ],
+  "keywords": [
+    "media",
+    "sample",
+    "video",
+    "h264",
+    "mp4",
+    "big",
+    "buck",
+    "bunny"
+  ],
+  "license": "CC-BY"
+}
