@@ -1,5 +1,5 @@
 {
-  "name": "big-buck-bunny-1080p-30s",
+  "name": "big-buck-bunny-1080p-60fps-30s",
   "homepage": "https://github.com/bower-media-samples/big-buck-bunny-1080p-30s",
   "authors": [
     "Bower Media Samples"
@@ -8,6 +8,9 @@
   "main": [
     "video.mp4",
     "poster.jpg"
+  ],
+  "ignore": [
+    "encode.sh"
   ],
   "keywords": [
     "media",
