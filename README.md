@@ -1,7 +1,7 @@
-big-buck-bunny-1080p-30s
-========================
+big-buck-bunny-1080p-60fps-30s
+==============================
 
-30 first seconds of Big Buck Bunny (1080p)
+30 first seconds of Big Buck Bunny (1080p@60fps)
 
 This is intended to be used as a sample video for testing (ex: `<video>` tag).
 
@@ -10,7 +10,7 @@ Installation
 
 Install using bower:
 
-    bower install big-buck-bunny-1080p-30s --save-dev
+    bower install big-buck-bunny-1080p-60fps-30s --save-dev
 
 
 License
